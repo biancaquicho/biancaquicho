@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biancaquicho&label=Profile%20views&color=0e75b6&style=flat" alt="biancaquicho" /> </p>
 
-👩🏻‍💻 Web Designer currently based in Dubai<br/>
+👩🏻‍💻 Web Designer currently based in Dubai, looking for jobs in Abu Dhabi<br/>
 👩🏻‍🎓 Studied Information Technology at FEU Institute of Technology, Philippines<br/>
 🎨 A versatile designer - Web Design, UI/UX Design, Graphic Design<br/>
 🌷 Background in QA Engineer and IT Support<br/>
